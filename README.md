@@ -44,12 +44,6 @@ I put my heart into every project, ensuring my clients get **profitable, scalabl
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roodiroot&show_icons=true&theme=tokyonight&cache_seconds=3600)
-
----
-
 ## 📬 Contact Me  
 
 💬 **Telegram**: [@mickkey_dee](https://t.me/mickkey_dee)  
