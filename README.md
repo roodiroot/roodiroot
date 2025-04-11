@@ -1,36 +1,61 @@
-# Привет! 👋 Я Максим
+# Hi there! 👋 I'm Maksim  
 
-### 🌐 О себе
+🚀 **Passionate Web Developer | E-commerce Expert**  
+I love writing code and can spend hours perfecting my projects.  
+Helping businesses grow through well-crafted online stores is my mission.  
 
-Я — веб-разработчик с богатым опытом создания современных и эффективных веб-сайтов. Основной акцент моей работы сосредоточен на использовании передовых технологий, таких как **React** и **Next.js**, чтобы создавать производительные и масштабируемые веб-приложения. В своей работе я уделяю особое внимание качеству кода, удобству пользователей и эстетике дизайна.
+---
 
-### 🚀 Чему я учусь сейчас?
+## 🌟 About Me  
 
-В настоящее время я расширяю свои навыки в направлениях, которые интересуют меня и которые, я уверен, будут играть ключевую роль в будущем разработки:
+I'm a web developer specializing in **Next.js**, **React**, and **Python**, building high-performance e-commerce platforms.  
+I put my heart into every project, ensuring my clients get **profitable, scalable, and efficient** online stores.  
 
-- **Rust**: Изучаю этот мощный язык программирования для создания высокопроизводительных и безопасных приложений.
-- **Машинное обучение**: Погружаюсь в мир искусственного интеллекта, чтобы понимать и применять алгоритмы машинного обучения в реальных проектах.
+💡 **Why work with me?**  
+✔ I write clean, maintainable code  
+✔ I care about UI/UX and conversion rates  
+✔ I treat my clients' success as my own  
 
-### 🤝 Свяжитесь со мной
+---
 
-Я всегда открыт для новых возможностей, сотрудничества и общения. Если хотите пообщаться или обсудить проект, можете связаться со мной через:
+## 🛠️ Tech Stack & Tools
 
-- **Telegram**: [@mickkey_dee](https://t.me/mickkey_dee)
+### 🔹 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💡 Технологии и инструменты
-
-Мои основные инструменты:
-
-- **Frontend**: React, Next.js, JavaScript, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Прочее**: Docker, Git, CI/CD, Figma для проектирования интерфейсов
-
-## Languages and Tools
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### 🔹 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔹 Database & DevOps  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔹 Tools & Design  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-8047E8?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roodiroot&show_icons=true&theme=tokyonight&cache_seconds=3600)
+
+---
+
+## 📬 Contact Me  
+
+💬 **Telegram**: [@mickkey_dee](https://t.me/mickkey_dee)  
+📧 **Email**: [borisov130490@gmail.com](mailto:borisov130490@gmail.com)  
+
+---
+
+🔥 **Let's build something amazing together!**
+
